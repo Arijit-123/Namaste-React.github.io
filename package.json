@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Arijit-123/Namaste-React.github.io/issues"
   },
-  "homepage": "https://github.com/Arijit-123/Namaste-React.github.io#readme"
+  "homepage": "https://github.com/Arijit-123/Namaste-React.github.io#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
 }
