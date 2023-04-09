@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a react app using parcel.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arijit-123/Namaste-React.github.io.git"
+  },
+  "keywords": [
+    "namaste",
+    "react",
+    "akshay",
+    "saini"
+  ],
+  "author": "Arijit Karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arijit-123/Namaste-React.github.io/issues"
+  },
+  "homepage": "https://github.com/Arijit-123/Namaste-React.github.io#readme"
+}
